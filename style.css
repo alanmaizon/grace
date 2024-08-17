@@ -1,13 +1,11 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
-
 /* Set background with a GIF and apply it to the entire body */
 body {
     margin: 0;
     padding: 0;
     background: url('grace.gif') no-repeat center center fixed;
     background-size: cover;
-    font-family: 'Old Standard TT', serif;
+    font-family: 'Papyrus', serif;
     color: #fff;
     text-align: center;
 }
