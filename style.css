@@ -1,9 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background: url('your-background.gif') no-repeat center center fixed;
+    background: url('grace.gif') no-repeat center center fixed;
     background-size: cover;
-    font-family: 'Lucida Blackletter', 'serif';
+    font-family: 'Georgia', 'serif';
     color: #fff;
     text-align: center;
 }
@@ -23,7 +23,7 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 1.5em;
-    font-family: 'Lucida Blackletter', 'serif';
+    font-family: 'Georgia', 'serif';
     margin: 20px;
     cursor: pointer;
     border-radius: 12px;
