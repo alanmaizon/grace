@@ -1,3 +1,5 @@
+/* Import Uncial Antiqua font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
 
 /* Set background with a GIF and apply it to the entire body */
 body {
@@ -5,7 +7,7 @@ body {
     padding: 0;
     background: url('grace.gif') no-repeat center center fixed;
     background-size: cover;
-    font-family: 'Papyrus', serif;
+    font-family: 'Uncial Antiqua', serif;
     color: #fff;
     text-align: center;
 }
@@ -27,7 +29,7 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 1.5em;
-    font-family: 'Old Standard TT', serif;
+    font-family: 'Uncial Antiqua', serif;
     margin: 20px;
     cursor: pointer;
     border-radius: 12px;
